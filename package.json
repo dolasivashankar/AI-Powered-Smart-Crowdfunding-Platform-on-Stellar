@@ -1,0 +1,27 @@
+{
+  "name": "stellarflow-ai",
+  "version": "1.0.0",
+  "description": "AI-Powered Smart Crowdfunding & Escrow Platform on Stellar",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm run test",
+    "test:e2e": "cd frontend && npx playwright test",
+    "test:contracts": "cargo test",
+    "lint": "cd frontend && npm run lint",
+    "deploy:contracts": "bash scripts/deploy.sh",
+    "verify:contracts": "bash scripts/verify.sh"
+  },
+
+  "keywords": [
+    "stellar",
+    "soroban",
+    "crowdfunding",
+    "blockchain",
+    "defi",
+    "escrow"
+  ],
+  "author": "StellarFlow AI Team",
+  "license": "MIT"
+}
