@@ -362,19 +362,20 @@ Push to main
 
 contract-address
 
-<img width="1907" height="942" alt="contract-address" src="https://github.com/user-attachments/assets/d3e598f0-f2df-4937-aa92-c5d49a176f88" />
+<img width="1907" height="942" alt="contract-address" src="https://github.com/user-attachments/assets/fe6c5e5a-0945-46ff-8f9a-5302f63d534d" />
 
 CI-CD Pipeline
 
-<img width="1885" height="927" alt="CI-CD Pipeline " src="https://github.com/user-attachments/assets/9834f7f7-3854-40a0-a5c0-a8d036f42f9c" />
+<img width="1885" height="927" alt="CI-CD Pipeline " src="https://github.com/user-attachments/assets/900a188c-e12d-450a-85a1-3a6d4c87c125" />
 
 Mobile Responsive UI
 
-<img width="1912" height="927" alt="Mobile Responsive UI" src="https://github.com/user-attachments/assets/1dea1537-a45d-453a-9647-cbdbef577aab" />
+<img width="1912" height="927" alt="Mobile Responsive UI" src="https://github.com/user-attachments/assets/dcb37e6f-f0ae-43f1-908a-d017bbd7b92a" />
 
 Dashboard
 
-<img width="1907" height="937" alt="Dashboard" src="https://github.com/user-attachments/assets/1a346545-2023-43ef-8ce8-0c442950a019" />
+<img width="1907" height="937" alt="Dashboard" src="https://github.com/user-attachments/assets/7a8dc336-9cc2-41c7-814a-1e3f881c0b0b" />
+
 
 ----
 Demo Video
