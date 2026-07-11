@@ -19,6 +19,9 @@ Deployment link - https://ai-powered-smart-crowdfunding-platf.vercel.app/
 
 StellarFlow AI is a production-ready decentralized crowdfunding platform built on the Stellar blockchain using Soroban smart contracts. It enables campaign creators to raise funds, lock them in escrow, and release them milestone-by-milestone with full transparency and AI-generated campaign descriptions.
 
+PDF: [TrustFundX_AI_Crowdfunding.pdf](https://github.com/user-attachments/files/29916559/TrustFundX_AI_Crowdfunding.pdf)
+
+
 ### Key Features
 
 - 🤖 **AI-Generated Descriptions** — OpenAI-powered campaign content generation
