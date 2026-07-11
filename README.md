@@ -383,8 +383,12 @@ Dashboard
 ----
 Demo Video
 
-
 Drive Link = https://drive.google.com/file/d/1wFk7sp1XujWAqo38aG3mS6sbv2c6mVcj/view?usp=sharing
+
+
+Full explanation video 
+
+https://drive.google.com/file/d/1rf4zK7l4m4AaY7MgrYpGUx31tUno387Q/view?usp=sharing
 
 
 
